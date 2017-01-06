@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<passed>
+<pass_assert_info   method="LoginTest.login.1481534391454">
+<span class="pass_span">输入正确的用户名和密码，验证是否成功进入主页:pass</span></br>
+</pass_assert_info>
+</passed>

@@ -1,0 +1,40 @@
+[2017-01-03 18:05:58,817] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2017-01-03 18:12:29,384] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-03 18:12:29,388] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-01-03 18:12:39,136] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2017-01-03 18:12:50,600] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://passport.jd.com/new/login.aspx网址!
+[2017-01-03 18:12:50,650] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2017-01-03 18:12:50,800] ERROR org.webdriver.patatiumwebui.utils.ElementAction 清除input值失败:密码输入框[By.id:nloginpwd]
+[2017-01-03 18:12:50,829] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2017-01-03 18:12:51,627] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/700sfriend/Desktop/work/MyDEV/workspace-sts-3.7.1.RELEASE/iPataUI/test-output\snapshot\登录成功测试0.jpg
+[2017-01-03 18:12:51,632] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2017-01-03 18:12:51,632] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2017-01-03 18:12:51,973] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-01-03 18:13:09,749] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2017-01-03 18:23:23,496] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-03 18:23:23,501] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-01-03 18:23:30,228] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2017-01-03 18:23:36,135] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://passport.jd.com/new/login.aspx网址!
+[2017-01-03 18:23:36,169] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2017-01-03 18:23:36,377] ERROR org.webdriver.patatiumwebui.utils.ElementAction 清除input值失败:密码输入框[By.id:nloginpwd]
+[2017-01-03 18:23:36,389] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2017-01-03 18:23:37,236] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/700sfriend/Desktop/work/MyDEV/workspace-sts-3.7.1.RELEASE/iPataUI/test-output\snapshot\登录成功测试0.jpg
+[2017-01-03 18:23:37,240] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2017-01-03 18:23:37,240] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2017-01-03 18:23:37,878] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-01-03 18:23:54,219] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2017-01-03 18:24:16,145] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-03 18:24:16,148] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-01-03 18:24:22,807] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2017-01-03 18:24:27,330] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://passport.jd.com/new/login.aspx网址!
+[2017-01-03 18:24:27,356] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2017-01-03 18:24:27,497] ERROR org.webdriver.patatiumwebui.utils.ElementAction 清除input值失败:密码输入框[By.id:nloginpwd]
+[2017-01-03 18:24:27,509] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2017-01-03 18:24:28,198] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/700sfriend/Desktop/work/MyDEV/workspace-sts-3.7.1.RELEASE/iPataUI/test-output\snapshot\登录成功测试0.jpg
+[2017-01-03 18:24:28,202] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2017-01-03 18:24:28,203] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2017-01-03 18:24:28,636] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-01-03 18:24:41,559] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
